@@ -13,5 +13,5 @@
 
 npm start INTERVAL TIME
 
-INTERVAL - задаем время в ms для setInterval
-TIME - задаем время в ms для setTimeout
+1.INTERVAL - задаем время в ms для setInterval
+2.TIME - задаем время в ms для setTimeout
